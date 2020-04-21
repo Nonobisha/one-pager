@@ -1,0 +1,28 @@
+.swiper-slide {
+}
+
+.w-100.d-block {
+}
+
+.w-100.d-block {
+}
+
+.btn.btn-primary.button {
+  position: absolute;
+  top: 50%;
+  align-self: center;
+  left: 50%;
+}
+
+.jumbotron.jumbo {
+  width: 50%;
+  position: absolute;
+  top: 20%;
+  left: 25%;
+  border-radius: 25px;
+}
+
+.contain {
+  position: relative;
+}
+
